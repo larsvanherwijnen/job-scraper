@@ -1,0 +1,17 @@
+.idea/
+.DS_Store
+
+# Nuxt
+**/node_modules/
+**/.nuxt/
+**/.output/
+**/dist/
+
+# .NET
+**/bin/
+**/obj/
+**/*.user
+**/*.suo
+
+# Go
+**/coverage.out
